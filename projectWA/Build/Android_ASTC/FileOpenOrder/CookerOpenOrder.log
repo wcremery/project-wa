@@ -338,37 +338,37 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 337
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 338
 "../../../Engine/Content/Maps/Entry.umap" 339
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Mesh/SK_Mannequin_Skeleton.uasset" 340
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 341
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 342
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 343
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 344
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonRun.uasset" 345
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 346
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 347
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 348
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Mesh/SK_Mannequin_Skeleton.uasset" 340
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 341
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 342
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 343
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 344
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonRun.uasset" 345
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 346
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 347
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 348
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 349
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 350
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset" 351
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset" 351
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 352
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 353
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 354
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 355
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 356
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 357
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 358
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 359
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 360
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 361
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 362
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 363
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_M.uasset" 364
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_N.uasset" 365
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 366
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 367
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 368
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 369
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" 370
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 355
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 356
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 357
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 358
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 359
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 360
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 361
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 362
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 363
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_M.uasset" 364
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_N.uasset" 365
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 366
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 367
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 368
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 369
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" 370
 "../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 371
 "../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 372
 "../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 373
@@ -378,10 +378,10 @@
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 377
 "../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 378
 "../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 379
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Blueprints/TopDownController.uasset" 380
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" 381
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" 382
-"../../../../../../Unreal Projects/projectWA/Content/Geometry/Meshes/CubeMaterial.uasset" 383
-"../../../../../../Unreal Projects/projectWA/Content/Geometry/Meshes/1M_Cube.uasset" 384
-"../../../../../../Unreal Projects/projectWA/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 385
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Maps/TopDownExampleMap.umap" 386
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Blueprints/TopDownController.uasset" 380
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" 381
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" 382
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Geometry/Meshes/CubeMaterial.uasset" 383
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Geometry/Meshes/1M_Cube.uasset" 384
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 385
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Maps/TopDownExampleMap.umap" 386

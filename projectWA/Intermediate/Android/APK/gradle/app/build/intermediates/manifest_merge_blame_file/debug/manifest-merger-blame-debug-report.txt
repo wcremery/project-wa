@@ -1,0 +1,337 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DawGames.projectWA"
+4    android:installLocation="internalOnly"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="14"
+9-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="26" />
+10-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml
+11    <!-- Requirements -->
+12    <uses-feature
+12-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:47:3-76
+13        android:glEsVersion="0x00030001"
+13-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:47:17-49
+14        android:required="true" />
+14-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:47:50-73
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:48:3-65
+16-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:48:20-62
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:49:3-79
+17-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:49:20-76
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:50:3-77
+18-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:50:20-74
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:51:3-66
+19-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:51:20-63
+20    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+20-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:52:3-71
+20-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:52:20-68
+21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+21-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:53:3-74
+21-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:53:20-71
+22    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+22-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:54:3-78
+22-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:54:20-75
+23    <uses-permission android:name="android.permission.VIBRATE" />
+23-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:55:3-64
+23-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:55:20-61
+24    <!-- Supported texture compression formats (cooked) -->
+25    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
+25-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:57:3-77
+25-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:57:24-74
+26    <!-- Application Definition -->
+27    <application
+27-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:3:3-45:17
+28        android:name="com.epicgames.ue4.GameApplication"
+28-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:3:114-162
+29        android:debuggable="true"
+30        android:hardwareAccelerated="true"
+30-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:3:79-113
+31        android:hasCode="true"
+31-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:3:163-185
+32        android:icon="@drawable/icon"
+32-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:3:49-78
+33        android:label="@string/app_name" >
+33-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:3:16-48
+34        <activity
+34-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:4:5-9:16
+35            android:name="com.epicgames.ue4.SplashActivity"
+35-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:4:15-62
+36            android:debuggable="true"
+36-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:4:204-229
+37            android:label="@string/app_name"
+37-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:4:63-95
+38            android:launchMode="singleTask"
+38-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:4:134-165
+39            android:screenOrientation="landscape"
+39-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:4:166-203
+40            android:theme="@style/UE4SplashTheme" >
+40-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:4:96-133
+41            <intent-filter>
+41-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:5:7-8:23
+42                <action android:name="android.intent.action.MAIN" />
+42-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:6:9-61
+42-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:6:17-58
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:7:9-69
+44-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:7:19-66
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:10:5-12:16
+48            android:name="com.epicgames.ue4.GameActivity"
+48-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:10:15-60
+49            android:configChanges="mcc|mnc|uiMode|screenSize|smallestScreenSize|screenLayout|orientation|keyboardHidden|keyboard"
+49-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:10:132-249
+50            android:debuggable="true"
+50-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:10:355-380
+51            android:label="@string/app_name"
+51-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:10:61-93
+52            android:launchMode="singleTask"
+52-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:10:285-316
+53            android:resizeableActivity="false"
+53-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:10:250-284
+54            android:screenOrientation="landscape"
+54-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:10:317-354
+55            android:theme="@style/UE4SplashTheme" >
+55-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:10:94-131
+56            <meta-data
+56-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:11:7-76
+57                android:name="android.app.lib_name"
+57-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:11:18-53
+58                android:value="UE4" />
+58-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:11:54-73
+59        </activity>
+60        <activity
+60-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:13:5-214
+61            android:name="com.DawGames.projectWA.DownloaderActivity"
+61-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:13:15-49
+62            android:configChanges="mcc|mnc|uiMode|screenSize|orientation|keyboardHidden|keyboard"
+62-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:13:88-173
+63            android:screenOrientation="landscape"
+63-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:13:50-87
+64            android:theme="@style/UE4SplashTheme" />
+64-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:13:174-211
+65
+66        <meta-data
+66-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:14:5-101
+67            android:name="com.epicgames.ue4.GameActivity.EngineVersion"
+67-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:14:16-75
+68            android:value="4.24.1" />
+68-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:14:76-98
+69        <meta-data
+69-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:15:5-112
+70            android:name="com.epicgames.ue4.GameActivity.EngineBranch"
+70-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:15:16-74
+71            android:value="++UE4+Release-4.24" />
+71-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:15:75-109
+72        <meta-data
+72-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:16:5-103
+73            android:name="com.epicgames.ue4.GameActivity.ProjectVersion"
+73-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:16:16-76
+74            android:value="1.0.0.0" />
+74-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:16:77-100
+75        <meta-data
+75-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:17:5-104
+76            android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference"
+76-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:17:16-83
+77            android:value="0" />
+77-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:17:84-101
+78        <meta-data
+78-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:18:5-108
+79            android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk"
+79-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:18:16-83
+80            android:value="false" />
+80-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:18:84-105
+81        <meta-data
+81-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:19:5-106
+82            android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp"
+82-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:19:16-81
+83            android:value="false" />
+83-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:19:82-103
+84        <meta-data
+84-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:20:5-100
+85            android:name="com.epicgames.ue4.GameActivity.bShouldHideUI"
+85-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:20:16-75
+86            android:value="false" />
+86-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:20:76-97
+87        <meta-data
+87-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:21:5-102
+88            android:name="com.epicgames.ue4.GameActivity.ProjectName"
+88-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:21:16-73
+89            android:value="projectWA" />
+89-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:21:74-99
+90        <meta-data
+90-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:22:5-89
+91            android:name="com.epicgames.ue4.GameActivity.AppType"
+91-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:22:16-69
+92            android:value="" />
+92-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:22:70-86
+93        <meta-data
+93-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:23:5-99
+94            android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles"
+94-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:23:16-74
+95            android:value="false" />
+95-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:23:75-96
+96        <meta-data
+96-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:24:5-111
+97            android:name="com.epicgames.ue4.GameActivity.BuildConfiguration"
+97-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:24:16-80
+98            android:value="Development" />
+98-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:24:81-108
+99        <meta-data
+99-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:25:5-99
+100            android:name="com.epicgames.ue4.GameActivity.CookedFlavors"
+100-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:25:16-75
+101            android:value="ASTC" />
+101-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:25:76-96
+102        <meta-data
+102-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:26:5-109
+103            android:name="com.epicgames.ue4.GameActivity.bValidateTextureFormats"
+103-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:26:16-85
+104            android:value="true" />
+104-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:26:86-106
+105        <meta-data
+105-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:27:5-107
+106            android:name="com.epicgames.ue4.GameActivity.bUseExternalFilesDir"
+106-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:27:16-82
+107            android:value="false" />
+107-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:27:83-104
+108        <meta-data
+108-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:28:5-102
+109            android:name="com.epicgames.ue4.GameActivity.bPublicLogFiles"
+109-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:28:16-77
+110            android:value="false" />
+110-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:28:78-99
+111        <meta-data
+111-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:29:5-104
+112            android:name="com.epicgames.ue4.GameActivity.bUseDisplayCutout"
+112-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:29:16-79
+113            android:value="false" />
+113-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:29:80-101
+114        <meta-data
+114-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:30:5-95
+115            android:name="com.epicgames.ue4.GameActivity.bAllowIMU"
+115-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:30:16-71
+116            android:value="true" />
+116-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:30:72-92
+117        <meta-data
+117-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:31:5-102
+118            android:name="com.epicgames.ue4.GameActivity.bSupportsVulkan"
+118-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:31:16-77
+119            android:value="false" />
+119-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:31:78-99
+120        <meta-data
+120-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:32:5-141
+121            android:name="com.epicgames.ue4.GameActivity.StartupPermissions"
+121-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:32:16-80
+122            android:value="android.permission.WRITE_EXTERNAL_STORAGE" />
+122-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:32:81-138
+123        <meta-data
+123-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:33:5-100
+124            android:name="com.google.android.gms.games.APP_ID"
+124-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:33:16-66
+125            android:value="@string/app_id" />
+125-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:33:67-97
+126        <meta-data
+126-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:34:5-118
+127            android:name="com.google.android.gms.version"
+127-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:34:16-61
+128            android:value="@integer/google_play_services_version" />
+128-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:34:62-115
+129
+130        <activity
+130-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:35:5-180
+131            android:name="com.google.android.gms.ads.AdActivity"
+131-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:35:15-67
+132            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+132-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:35:68-177
+133            android:exported="false"
+133-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\e53e5530a6790202b7b9d7c8624d57ed\play-services-ads-lite-11.8.0\AndroidManifest.xml:32:13-37
+134            android:theme="@android:style/Theme.Translucent" />
+134-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\e53e5530a6790202b7b9d7c8624d57ed\play-services-ads-lite-11.8.0\AndroidManifest.xml:33:13-61
+135
+136        <service android:name="com.DawGames.projectWA.OBBDownloaderService" />
+136-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:36:5-52
+136-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:36:14-49
+137
+138        <receiver android:name="com.DawGames.projectWA.AlarmReceiver" />
+138-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:37:5-46
+138-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:37:15-43
+139        <receiver android:name="com.epicgames.ue4.LocalNotificationReceiver" />
+139-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:38:5-76
+139-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:38:15-73
+140        <receiver
+140-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:39:5-43:16
+141            android:name="com.epicgames.ue4.MulticastBroadcastReceiver"
+141-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:39:15-74
+142            android:exported="true" >
+142-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:39:75-98
+143            <intent-filter>
+143-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:40:7-42:23
+144                <action android:name="com.android.vending.INSTALL_REFERRER" />
+144-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:41:9-71
+144-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:41:17-68
+145            </intent-filter>
+146        </receiver>
+147
+148        <meta-data
+148-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:44:5-73
+149            android:name="android.max_aspect"
+149-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:44:16-49
+150            android:value="2.10" />
+150-->E:\Unreal Projects\Clash Of Legends\projectWA\Intermediate\Android\APK\gradle\app\src\main\AndroidManifest.xml:44:50-70
+151
+152        <activity
+152-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:23:9-27:75
+153            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+153-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:24:13-93
+154            android:excludeFromRecents="true"
+154-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:25:13-46
+155            android:exported="false"
+155-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:26:13-37
+156            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+156-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:27:13-72
+157        <!--
+158            Service handling Google Sign-In user revocation. For apps that do not integrate with
+159            Google Sign-In, this service will never be started.
+160        -->
+161        <service
+161-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:33:9-36:110
+162            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+162-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:34:13-89
+163            android:exported="true"
+163-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:35:13-36
+164            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+164-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\ad3f0e049b8e520b08046ce86bd4f4e3\play-services-auth-11.8.0\AndroidManifest.xml:36:13-107
+165
+166        <provider
+166-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+167            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+167-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:24:13-83
+168            android:authorities="com.DawGames.projectWA.lifecycle-trojan"
+168-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:25:13-68
+169            android:exported="false"
+169-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:26:13-37
+170            android:multiprocess="true" />
+170-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\dd51f51a756baaff7a81d412e9a23414\extensions-1.1.1\AndroidManifest.xml:27:13-40
+171
+172        <activity
+172-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+173            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+173-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+174            android:exported="false"
+174-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+175            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+175-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\whaid\.gradle\caches\transforms-2\files-2.1\17bcd587b44a2cac424c24032b1e88fc\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+176    </application>
+177
+178</manifest>

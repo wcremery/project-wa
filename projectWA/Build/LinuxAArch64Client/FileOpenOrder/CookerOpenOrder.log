@@ -1444,190 +1444,190 @@
 "../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1443
 "../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1444
 "../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1445
-"../../../../../../Unreal Projects/projectWA/Content/Geometry/Meshes/CubeMaterial.uasset" 1446
-"../../../../../../Unreal Projects/projectWA/Content/Geometry/Meshes/TemplateFloor.uasset" 1447
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Mesh/SK_Mannequin_Skeleton.uasset" 1448
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1449
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1450
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/TopDownOverview.uasset" 1451
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerDiffuse.uasset" 1452
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerNormal.uasset" 1453
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset" 1454
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMesh.uasset" 1455
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerDiffuse.uasset" 1456
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMaterial.uasset" 1457
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset" 1458
-"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim.uasset" 1459
-"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim_Inst.uasset" 1460
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset" 1461
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1462
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 1463
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial_Inst.uasset" 1464
-"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Core.uasset" 1465
-"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Outer.uasset" 1466
-"../../../Engine/Content/VREditor/Sounds/VR_click1.uasset" 1467
-"../../../Engine/Content/VREditor/Sounds/VR_click1_Cue.uasset" 1468
-"../../../Engine/Content/VREditor/Sounds/VR_click2.uasset" 1469
-"../../../Engine/Content/VREditor/Sounds/VR_click2_Cue.uasset" 1470
-"../../../Engine/Content/VREditor/Sounds/VR_click3.uasset" 1471
-"../../../Engine/Content/VREditor/Sounds/VR_click3_Cue.uasset" 1472
-"../../../Engine/Content/VREditor/Sounds/VR_close.uasset" 1473
-"../../../Engine/Content/VREditor/Sounds/VR_close_Cue.uasset" 1474
-"../../../Engine/Content/VREditor/Sounds/VR_confirm.uasset" 1475
-"../../../Engine/Content/VREditor/Sounds/VR_confirm_Cue.uasset" 1476
-"../../../Engine/Content/VREditor/Sounds/VR_grab.uasset" 1477
-"../../../Engine/Content/VREditor/Sounds/VR_grab_Cue.uasset" 1478
-"../../../Engine/Content/VREditor/Sounds/VR_negative.uasset" 1479
-"../../../Engine/Content/VREditor/Sounds/VR_negative_Cue.uasset" 1480
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01.uasset" 1481
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01_Cue.uasset" 1482
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02.uasset" 1483
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02_Cue.uasset" 1484
-"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop.uasset" 1485
-"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop_Cue.uasset" 1486
-"../../../Engine/Content/VREditor/Sounds/VR_open.uasset" 1487
-"../../../Engine/Content/VREditor/Sounds/VR_open_Cue.uasset" 1488
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01.uasset" 1489
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01_Cue.uasset" 1490
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02.uasset" 1491
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02_Cue.uasset" 1492
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03.uasset" 1493
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03_Cue.uasset" 1494
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04.uasset" 1495
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04_Cue.uasset" 1496
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01.uasset" 1497
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01_Cue.uasset" 1498
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02.uasset" 1499
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02_Cue.uasset" 1500
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03.uasset" 1501
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03_Cue.uasset" 1502
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04.uasset" 1503
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04_Cue.uasset" 1504
-"../../../Engine/Content/VREditor/Sounds/VR_teleport_Cue.uasset" 1505
-"../../../Engine/Content/VREditor/Sounds/VR_ungrab.uasset" 1506
-"../../../Engine/Content/VREditor/Sounds/VR_ungrab_Cue.uasset" 1507
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01.uasset" 1508
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01_Cue.uasset" 1509
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02.uasset" 1510
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02_Cue.uasset" 1511
-"../../../Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset" 1512
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 1513
-"../../../Engine/Content/VREditor/Sounds/UI/Enter_Play.uasset" 1514
-"../../../Engine/Content/VREditor/Sounds/UI/Enter_Simulate.uasset" 1515
-"../../../Engine/Content/VREditor/Sounds/UI/Flashlight_Switch.uasset" 1516
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-001.uasset" 1517
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-002.uasset" 1518
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close.uasset" 1519
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-002.uasset" 1520
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open.uasset" 1521
-"../../../Engine/Content/VREditor/Sounds/UI/Foliage_Placed.uasset" 1522
-"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 1523
-"../../../Engine/Content/VREditor/Sounds/UI/Laser_Pull.uasset" 1524
-"../../../Engine/Content/VREditor/Sounds/UI/Laser_Push.uasset" 1525
-"../../../Engine/Content/VREditor/Sounds/UI/Leave_Simulate.uasset" 1526
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Committed.uasset" 1527
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1528
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1529
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1530
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1531
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 1532
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1533
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1534
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Main.uasset" 1535
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1536
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1537
-"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 1538
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateHandleLong.uasset" 1539
-"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1540
-"../../../Engine/Content/VREditor/UI/KeyMaterial.uasset" 1541
-"../../../Engine/Content/VREditor/UI/FrameMaterial.uasset" 1542
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1543
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1544
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1545
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1546
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1547
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1548
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8_SubUV.uasset" 1549
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 1550
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 1551
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 1552
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 1553
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 1554
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 1555
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 1556
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 1557
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 1558
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 1559
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 1560
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 1561
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1562
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 1563
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 1564
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 1565
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 1566
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 1567
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 1568
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 1569
-"../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset" 1570
-"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 1571
-"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 1572
-"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 1573
-"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 1574
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 1575
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1576
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 1577
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 1578
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 1579
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 1580
-"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 1581
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 1582
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 1583
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 1584
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 1585
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 1586
-"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 1587
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 1588
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 1589
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 1590
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 1591
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 1592
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 1593
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 1594
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 1595
-"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 1596
-"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 1597
-"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 1598
-"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 1599
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 1600
-"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 1601
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 1602
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 1603
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 1604
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 1605
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 1606
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 1607
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 1608
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 1609
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 1610
-"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 1611
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 1612
-"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 1613
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 1614
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 1615
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 1616
-"../../../Engine/Content/VREditor/UI/DockButton.uasset" 1617
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1618
-"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 1619
-"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 1620
-"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 1621
-"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 1622
-"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 1623
-"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 1624
-"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 1625
-"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 1626
-"../../../Engine/Content/VREditor/VREditorAssetContainerData.uasset" 1627
-"../../../Engine/Content/VREditor/Devices/M_EngineLogo.uasset" 1628
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial_Inst.uasset" 1629
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1446
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1447
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1448
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1449
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1450
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1451
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8_SubUV.uasset" 1452
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 1453
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1454
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1455
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 1456
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1457
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 1458
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 1459
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 1460
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 1461
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 1462
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 1463
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 1464
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 1465
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 1466
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 1467
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1468
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 1469
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 1470
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 1471
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 1472
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 1473
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 1474
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 1475
+"../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset" 1476
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 1477
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 1478
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 1479
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 1480
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 1481
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1482
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 1483
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 1484
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 1485
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 1486
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 1487
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 1488
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 1489
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 1490
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 1491
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 1492
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 1493
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 1494
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 1495
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 1496
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 1497
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 1498
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 1499
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 1500
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 1501
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 1502
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 1503
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 1504
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 1505
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 1506
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 1507
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 1508
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 1509
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 1510
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 1511
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 1512
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 1513
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 1514
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 1515
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 1516
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 1517
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 1518
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 1519
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 1520
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 1521
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1522
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1523
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 1524
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 1525
+"../../../Engine/Content/VREditor/UI/DockButton.uasset" 1526
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1527
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 1528
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 1529
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 1530
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 1531
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 1532
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 1533
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 1534
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 1535
+"../../../Engine/Content/VREditor/VREditorAssetContainerData.uasset" 1536
+"../../../Engine/Content/VREditor/Devices/M_EngineLogo.uasset" 1537
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial_Inst.uasset" 1538
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerDiffuse.uasset" 1539
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerNormal.uasset" 1540
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset" 1541
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMesh.uasset" 1542
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerDiffuse.uasset" 1543
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMaterial.uasset" 1544
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset" 1545
+"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim.uasset" 1546
+"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim_Inst.uasset" 1547
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset" 1548
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial_Inst.uasset" 1549
+"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Core.uasset" 1550
+"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Outer.uasset" 1551
+"../../../Engine/Content/VREditor/Sounds/VR_click1.uasset" 1552
+"../../../Engine/Content/VREditor/Sounds/VR_click1_Cue.uasset" 1553
+"../../../Engine/Content/VREditor/Sounds/VR_click2.uasset" 1554
+"../../../Engine/Content/VREditor/Sounds/VR_click2_Cue.uasset" 1555
+"../../../Engine/Content/VREditor/Sounds/VR_click3.uasset" 1556
+"../../../Engine/Content/VREditor/Sounds/VR_click3_Cue.uasset" 1557
+"../../../Engine/Content/VREditor/Sounds/VR_close.uasset" 1558
+"../../../Engine/Content/VREditor/Sounds/VR_close_Cue.uasset" 1559
+"../../../Engine/Content/VREditor/Sounds/VR_confirm.uasset" 1560
+"../../../Engine/Content/VREditor/Sounds/VR_confirm_Cue.uasset" 1561
+"../../../Engine/Content/VREditor/Sounds/VR_grab.uasset" 1562
+"../../../Engine/Content/VREditor/Sounds/VR_grab_Cue.uasset" 1563
+"../../../Engine/Content/VREditor/Sounds/VR_negative.uasset" 1564
+"../../../Engine/Content/VREditor/Sounds/VR_negative_Cue.uasset" 1565
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01.uasset" 1566
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01_Cue.uasset" 1567
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02.uasset" 1568
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02_Cue.uasset" 1569
+"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop.uasset" 1570
+"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop_Cue.uasset" 1571
+"../../../Engine/Content/VREditor/Sounds/VR_open.uasset" 1572
+"../../../Engine/Content/VREditor/Sounds/VR_open_Cue.uasset" 1573
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01.uasset" 1574
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01_Cue.uasset" 1575
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02.uasset" 1576
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02_Cue.uasset" 1577
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03.uasset" 1578
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03_Cue.uasset" 1579
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04.uasset" 1580
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04_Cue.uasset" 1581
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01.uasset" 1582
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01_Cue.uasset" 1583
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02.uasset" 1584
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02_Cue.uasset" 1585
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03.uasset" 1586
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03_Cue.uasset" 1587
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04.uasset" 1588
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04_Cue.uasset" 1589
+"../../../Engine/Content/VREditor/Sounds/VR_teleport_Cue.uasset" 1590
+"../../../Engine/Content/VREditor/Sounds/VR_ungrab.uasset" 1591
+"../../../Engine/Content/VREditor/Sounds/VR_ungrab_Cue.uasset" 1592
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01.uasset" 1593
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01_Cue.uasset" 1594
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02.uasset" 1595
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02_Cue.uasset" 1596
+"../../../Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset" 1597
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 1598
+"../../../Engine/Content/VREditor/Sounds/UI/Enter_Play.uasset" 1599
+"../../../Engine/Content/VREditor/Sounds/UI/Enter_Simulate.uasset" 1600
+"../../../Engine/Content/VREditor/Sounds/UI/Flashlight_Switch.uasset" 1601
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-001.uasset" 1602
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-002.uasset" 1603
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close.uasset" 1604
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-002.uasset" 1605
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open.uasset" 1606
+"../../../Engine/Content/VREditor/Sounds/UI/Foliage_Placed.uasset" 1607
+"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 1608
+"../../../Engine/Content/VREditor/Sounds/UI/Laser_Pull.uasset" 1609
+"../../../Engine/Content/VREditor/Sounds/UI/Laser_Push.uasset" 1610
+"../../../Engine/Content/VREditor/Sounds/UI/Leave_Simulate.uasset" 1611
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Committed.uasset" 1612
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1613
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1614
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 1615
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Main.uasset" 1616
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1617
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1618
+"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 1619
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateHandleLong.uasset" 1620
+"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1621
+"../../../Engine/Content/VREditor/UI/KeyMaterial.uasset" 1622
+"../../../Engine/Content/VREditor/UI/FrameMaterial.uasset" 1623
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Geometry/Meshes/CubeMaterial.uasset" 1624
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Geometry/Meshes/TemplateFloor.uasset" 1625
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Mesh/SK_Mannequin_Skeleton.uasset" 1626
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1627
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1628
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/TopDownOverview.uasset" 1629
 "../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1630
 "../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1631
 "../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1632
@@ -1787,36 +1787,36 @@
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1786
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1787
 "../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1788
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1789
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1790
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1791
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1792
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1793
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1794
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1795
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1796
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1789
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1790
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1791
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1792
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1793
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1794
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1795
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1796
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 1797
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset" 1798
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset" 1798
 "../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1799
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1800
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1801
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1802
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1803
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1804
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1805
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1806
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1807
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1808
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_M.uasset" 1809
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_N.uasset" 1810
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1811
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1812
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1813
-"../../../../../../Unreal Projects/projectWA/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1814
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" 1815
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Blueprints/TopDownController.uasset" 1816
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" 1817
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" 1818
-"../../../../../../Unreal Projects/projectWA/Content/Geometry/Meshes/1M_Cube.uasset" 1819
-"../../../../../../Unreal Projects/projectWA/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1820
-"../../../../../../Unreal Projects/projectWA/Content/TopDownBP/Maps/TopDownExampleMap.umap" 1821
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1800
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1801
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1802
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1803
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1804
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1805
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1806
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1807
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1808
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_M.uasset" 1809
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_N.uasset" 1810
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1811
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1812
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1813
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1814
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" 1815
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Blueprints/TopDownController.uasset" 1816
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" 1817
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" 1818
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Geometry/Meshes/1M_Cube.uasset" 1819
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1820
+"../../../../../../Unreal Projects/Clash Of Legends/projectWA/Content/TopDownBP/Maps/TopDownExampleMap.umap" 1821

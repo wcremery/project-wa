@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "Z:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "E:\\Unreal Projects\\Clash Of Legends\\projectWA\\Intermediate\\Android\\APK\\gradle\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\whaid\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\d6f16001dd602ca51c0412f2bbe9a4a2\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\whaid\\.gradle\\caches\\transforms-2\\files-2.1\\07eab5d4be2919a2427c349dd92450e0\\support-media-compat-27.1.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
