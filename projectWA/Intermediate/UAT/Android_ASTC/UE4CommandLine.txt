@@ -1,0 +1,1 @@
+../../../projectWA/projectWA.uproject  /Game/TopDownBP/Maps/TopDownExampleMap -Messaging -SessionId=D332AC4249A896F3AEF1F0AABB338342 -SessionOwner="whaid" -SessionName="Launch On Device" -iterative
